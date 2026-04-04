@@ -1,5 +1,4 @@
-**StudyFlow
-**
+**StudyFlow**
 This app is a personal project created to start my journey in mobile development.
 
 StudyFlow is a student-focused productivity app, similar to a traditional to-do list, but designed specifically for study sessions. It helps users manage tasks, track deadlines, and stay focused using a built-in Pomodoro timer.
