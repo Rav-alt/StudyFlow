@@ -1,51 +1,26 @@
-# Welcome to your Expo app 👋
+**StudyFlow**
+This app is a personal project created to start my journey in mobile development.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+StudyFlow is a student-focused productivity app, similar to a traditional to-do list, but designed specifically for study sessions. It helps users manage tasks, track deadlines, and stay focused using a built-in Pomodoro timer.
 
-## Get started
+**Features**
+Task management (add, view tasks)
+Deadline tracking
+Focus session (Pomodoro timer) (in progress)
 
-1. Install dependencies
+**Development Status**
 
-   ```bash
-   npm install
-   ```
+This project is currently in development.
 
-2. Start the app
+**Completed:**
 
-   ```bash
-   npx expo start
-   ```
+Home Screen UI
+Add Task functionality
 
-In the output, you'll find options to open the app in a
+**In Progress:**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Focus Session (Pomodoro feature)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**Goal**
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# StudyFlow
+The goal of this project is to improve my skills in mobile app development while building a useful tool for students.
