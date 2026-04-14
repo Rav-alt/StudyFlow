@@ -17,8 +17,6 @@ const REPLACE_ACTIONS = new Set<NavigationAction>([
 export default function Navigations(action: NavigationAction) {
   const route = ROUTES[action];
   if (REPLACE_ACTIONS.has(action)) {
-    router.replace(route);
-  } else {
     router.push(route);
   }
 }
